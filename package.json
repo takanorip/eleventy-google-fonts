@@ -1,6 +1,6 @@
 {
   "name": "eleventy-google-fonts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "https://github.com/takanorip/eleventy-google-fonts.git",
   "author": "takanorip <takanori0170@gmail.com>",
