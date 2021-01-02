@@ -1,10 +1,15 @@
 {
   "name": "eleventy-google-fonts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "https://github.com/takanorip/eleventy-google-fonts.git",
   "author": "takanorip <takanori0170@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "eleventy",
+    "eleventy-plugin",
+    "Google Fonts"
+  ],
   "scripts": {
     "type-check": "tsc --noEmit",
     "type-check:watch": "npm run type-check -- --watch",
