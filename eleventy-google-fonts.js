@@ -38,7 +38,7 @@ const createInlineCss = async url => {
   return (
     `<link rel="preconnect" href="https://fonts.gstatic.com">`+
     `<link data-href="${url}" rel="stylesheet">`+
-    `<style data-href='${url}'>${content.replace(/(\n|\s)/g, '')}</style>`
+    `<style data-href='${url}'>${content}</style>`
   )
 }
 
