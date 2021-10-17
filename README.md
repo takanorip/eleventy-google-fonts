@@ -1,6 +1,6 @@
 # eleventy-google-fonts
 
-A eleventy shortcode to optimize Google Fonts. This shortcode download and inline Google Font's CSS.
+A universal shortcode to optimize Google Fonts for eleventy.js. This shortcode download and inline Google Font's CSS.
 
 ## Installation
 
