@@ -1,6 +1,6 @@
 # eleventy-google-fonts
 
-A Nunjucks shortcode to optimize Google Fonts. This shortcode download and inline Google Font's CSS.
+A eleventy shortcode to optimize Google Fonts. This shortcode download and inline Google Font's CSS.
 
 ## Installation
 
